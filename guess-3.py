@@ -12,7 +12,6 @@ When I say:         That means:
     Warm            One digit is correct but in the wrong position
     Hot             One digit is correct and in the right position
     Cold            No digit is correct
-    
 For example, if the secret number was 248 and your guess was 843,
 the clues would be Hot Warm.'''.format(NUM_DIGITS))
 
